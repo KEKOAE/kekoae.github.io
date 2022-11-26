@@ -10,6 +10,7 @@ Where my website will live.
 - [ ] Take screenshot image of game and add to front page
 - [ ] Create DNS CNAME alias for http://www.kekoae.com
 - [ ] Take images of artwork and create a /works-of-art page
+- [ ] Create new repository for pygames.
 
 ## IMPLEMENTED:
 
